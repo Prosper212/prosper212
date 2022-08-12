@@ -1,0 +1,176 @@
+body{
+    background-color: grey;
+}
+* {
+    margin: auto;
+}
+
+.container {
+    background-color: rgb(253, 253, 253);
+    max-width: 100%;
+    max-height: 50%;
+    line-height: 1.7;
+    border: 2px 2px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 50%;                         
+}
+
+/*.container .chord {
+    margin: 129px auto;
+}
+
+.chord {
+    margin: 129px auto;
+    height: 791px;
+    width: 517px;
+    background-image: url(/image/lee.jpeg);
+    /*display: flex;
+    border: none;
+    float: right;
+    position: relative;
+}*/
+
+header {
+    background-color: rgb(250, 250, 252);
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+li {
+    list-style: none;
+    float: left;
+    display: block;
+    padding-left: 9px;
+    margin-right: 100px;
+}
+
+.chat {
+    padding: 7px 20px;
+    margin-left: 10px;
+}    
+
+h1 {
+    padding-top: 75px;
+    padding-bottom: 20px;
+}
+
+.sp {
+    padding-bottom: 30px;
+}
+
+img {
+    max-height: 100vh;
+    max-width: 100%;
+    /*position: absolute;*/
+    float: right;
+    z-index: -1;
+}
+
+.hi {
+    background-color: orangered;
+    color: #fff;
+    border: none;
+    padding: 10px 25px;
+    margin-bottom: 30px;
+}
+
+.arrow {
+    border: none;
+}
+
+.eig {
+    margin-bottom: 20px;
+}
+
+.slas {
+    height: 0px;
+}
+
+.las {
+    max-width: 860px;
+    max-height: 90px;
+}
+
+button {
+    padding: 7px  20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(91, 10, 221);
+}
+
+.ba {
+    margin-right: 130px;
+}
+
+.get {
+    background-image: url(/image/lee.jpeg);
+    background-size: auto;
+    float: right;
+    padding-left: 200px;
+    padding-right: 75px;
+    padding-bottom: 382px;
+    height: 410px;
+    background-position: center;
+}
+
+.cre {
+    text-align: left;
+    font-size: x-large;
+    margin-top: 65px;
+}
+
+.first {
+
+}
+
+.second {
+    left: px;
+}
+
+.third {
+    margin-top: 360px;
+}
+.sub {
+    margin-top: 558px;
+}
+
+.rect {
+    max-width: 100%;
+    background-color: black;
+    color: #fff;
+    margin-top: 103px;
+    padding: 40px 0px;
+}
+
+.foo {
+    margin-left: 60px;
+    width: 120px;
+    height: 0px;
+}
+
+table {
+    margin-right: 560px;
+}
+
+td {
+    border-bottom: 1px solid white;
+    padding-right: 75px;
+} 
+
+.tech {
+    margin-left: 60px;
+}
+
+.fin {
+    background-color: yellow;
+    padding: 10px 15px;
+}
